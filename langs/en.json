@@ -1,4 +1,5 @@
 {
     "hello-world": "Hello World!",
-    "greeting": "Hello there {0}!"
+    "greeting": "Hello there {0}!",
+    "test-force-push": "Test force push"
 }
