@@ -1,5 +1,7 @@
 {
     "hello-world": "Hello World!",
     "greeting": "Hello there {0}!",
-    "test-force-push": "Test force push"
+    "test-force-push": "Test force push",
+    "key": "value",
+    "test_key": "test_invariant"
 }
